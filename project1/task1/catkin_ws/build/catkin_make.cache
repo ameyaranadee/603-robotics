@@ -1,0 +1,2 @@
+my_turtle_pkg
+-DCATKIN_DEVEL_PREFIX=//home/ameyaranade/603robotics/project1/task1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=//home/ameyaranade/603robotics/project1/task1/catkin_ws/install -G Unix Makefiles
