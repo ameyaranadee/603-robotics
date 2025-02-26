@@ -1,0 +1,8 @@
+prefix=/home/ameyaranade/Desktop/603-robotics/project1/task2/catkin_ws/devel
+
+Name: P1D2_ameya_ranade
+Description: Description of P1D2_ameya_ranade
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
