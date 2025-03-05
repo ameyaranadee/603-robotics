@@ -1,2 +1,2 @@
-stingray_sim
+stingray_sim:wall_following
 -DCATKIN_DEVEL_PREFIX=/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/install -G Unix Makefiles

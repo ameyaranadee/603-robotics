@@ -1,0 +1,7 @@
+<launch>
+    <!-- Start the Gazebo simulation -->
+    <include file="$(find stingray_sim)/launch/wall_following.launch" />
+
+    <!-- Run the wall following node -->
+    <node name="wall_following_manual" pkg="wall_following" type="wall_following_manual.py" output="screen" />
+</launch>

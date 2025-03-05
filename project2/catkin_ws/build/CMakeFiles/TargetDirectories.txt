@@ -118,3 +118,10 @@
 /home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/stingray_sim/plugins/CMakeFiles/edit_cache.dir
 /home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/stingray_sim/plugins/CMakeFiles/test.dir
 /home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/stingray_sim/plugins/CMakeFiles/model_push.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/install/strip.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/install/local.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/install.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/list_install_components.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/rebuild_cache.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/edit_cache.dir
+/home/ameyaranade/Desktop/603-robotics/project2/catkin_ws/build/wall_following/CMakeFiles/test.dir
